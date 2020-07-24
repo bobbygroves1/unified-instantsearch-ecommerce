@@ -27,7 +27,7 @@ const config = {
   googleAnalytics: false,
   sorts: [
     {
-      label: 'Featured',
+      label: 'Featared',
       value: 'instant_search',
     },
     {
